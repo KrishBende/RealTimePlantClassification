@@ -8,4 +8,4 @@ Validation Accuracy: The model achieved a validation accuracy of 97.76%, indicat
 
 Validation Loss: The validation loss was recorded at 0.0611, suggesting the model's predictions were closely aligned with the actual labels.
 
-# Run the Notebook, downloading the required dependencies and model.
+# Run 'RealTimeClassification.ipynb', downloading the required dependencies and model.
